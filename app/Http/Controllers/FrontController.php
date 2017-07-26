@@ -24,7 +24,7 @@ class FrontController extends Controller
 
     public function profile()
     {
-      $projects=Project::orderBy('start','desc')->get();
+      $projects=Project::orderBy('start')->get();
       $jobs=Job::all();
       $stacks=Stack::all();
       $skills=Skill::all();

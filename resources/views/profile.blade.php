@@ -39,11 +39,11 @@
             </tr>
             <tr>
               <td>Sitio Web:</td>
-              <td style="text-align:right"><a target="_blank" href="http://www.deploycode.co">http://www.deploycode.co</a></td>
+              <td style="text-align:right"><a target="_blank" href="http://www.deploycode.co">Blog</a></td>
             </tr>
             <tr>
               <td>Repositorio:</td>
-              <td style="text-align:right"><a target="_blank" href="https://github.com/deploycode">https://github.com/deploycode</a></td>
+              <td style="text-align:right"><a target="_blank" href="https://github.com/deploycode">Github</a></td>
             </tr>
           </table>
         </div>

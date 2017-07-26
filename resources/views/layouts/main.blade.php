@@ -68,7 +68,6 @@
             @endif
             {{-- <li><a href="{!!URL::to('home')!!}"><i class="glyphicon glyphicon-home teme-home"></i> Inicio</a></li> --}}
             <li><a href="{!!URL::to('blog')!!}"><i class="glyphicon glyphicon-book  teme-blog"></i> Blog</a></li>
-            <li><a href="{!!URL::to('profile')!!}"><i class="glyphicon glyphicon-list-alt teme-profile"></i> Perfil</a></li>
             <li><a href="{!!URL::to('contact')!!}"><i class="glyphicon glyphicon-envelope teme-contact"></i> Contacto</a></li>
             @if (isset(Auth::user()->name))
               <li><a href="#"> Categories <span class="fa arrow"></span></a>

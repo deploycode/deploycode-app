@@ -62,6 +62,12 @@
                 <td>Ingeniero Teleinformático</td>
                 <td style="text-align:right">Universidad Tecnológica del Chocó "Diego Luis Córdoba" (2009 - 2016)</td>
               </tr>
+              <tr>
+                <div class="text-center">
+                </div>
+                <td>Tecnlogía en Animación 3D</td>
+                <td style="text-align:right">SENA Regional Chocó (Pendiente)</td>
+              </tr>
             </tbody>
           </table>
         </div>

@@ -38,8 +38,12 @@
               <td style="text-align:right">gabriel@deploycode.co</td>
             </tr>
             <tr>
-              <td>Email 2:</td>
-              <td style="text-align:right">a-gabrielrodríguez@hotmail.com</td>
+              <td>Sitio Web:</td>
+              <td style="text-align:right">http://www.deploycode.co</td>
+            </tr>
+            <tr>
+              <td>Repositorio:</td>
+              <td style="text-align:right">https://github.com/deploycode</td>
             </tr>
           </table>
         </div>

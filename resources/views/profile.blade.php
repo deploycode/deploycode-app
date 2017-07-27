@@ -14,27 +14,15 @@
               <td style="text-align:right">Gabriel Ernesto García Rodríguez</td>
             </tr>
             <tr>
-              <td>Documento de identidad:</td>
-              <td style="text-align:right">1077455940</td>
+              <td>Residencia:</td>
+              <td style="text-align:right">Bogotá - Colombia</td>
             </tr>
             <tr>
-              <td>Fecha de Nacimiento:</td>
-              <td style="text-align:right"> 31 de Octubre de 1992</td>
+              <td>Movil:</td>
+              <td style="text-align:right">(+57) 320 531 7510</td>
             </tr>
             <tr>
-              <td>Lugar de Nacimiento:</td>
-              <td style="text-align:right">Bogotá DC</td>
-            </tr>
-            <tr>
-              <td>Dirección:</td>
-              <td style="text-align:right">Carrera 21 #63a-22 Bogotá</td>
-            </tr>
-            <tr>
-              <td>Teléfono:</td>
-              <td style="text-align:right">320 531 7510</td>
-            </tr>
-            <tr>
-              <td>Email 1:</td>
+              <td>Email:</td>
               <td style="text-align:right">gabriel@deploycode.co</td>
             </tr>
             <tr>
@@ -44,6 +32,10 @@
             <tr>
               <td>Repositorio:</td>
               <td style="text-align:right"><a target="_blank" href="https://github.com/deploycode">Github</a></td>
+            </tr>
+            <tr>
+              <td>Social:</td>
+              <td style="text-align:right"><a target="_blank" href="https://www.linkedin.com/in/deploycode/">Linkedin</a></td>
             </tr>
           </table>
         </div>
@@ -83,11 +75,11 @@
     <div class="panel my-panel">
       <div class="panel-body">
         <p>
-          Desarrollador web desde 2013, Blogger, escribo sobre software en mi blog deploycode.co
-          he laborado en 3 empresas y desarrollado múltiples aplicaciones,en todos los proyectos me he desempeñado como Full Stack,
-          llevando a cabo todo el proceso de ingeniería de las aplicaciones , desde el análisis, el diseño, pasando por la
-          codificación hasta el despliegue de la aplicación. Mi mayor anhelo es participar en un proyecto increíble
-          que llegue a millones de usuarios.
+          Desarrollador web desde 2013, escribo sobre software en mi blog www.deploycode.co
+          he desarrollado desde completos CMS hasta plataformas e-comerce, en todos ellos me he desempeñado como Full Stack,
+          llevando a cabo todo el proceso de ingeniería de las aplicaciones, análisis, diseño, pasando por la
+          codificación hasta el despliegue de la aplicación. <br><br> Somos afortunados, de tantas profesiones, ¿Cuántas pueden llegar
+          a tantos, como nosotros?, Cuántos pueden estar tan cerca de sus usuarios?, ¿Cuántos pueden sentir tanto su satisfacción o enojo?
         </p>
       </div>
     </div>

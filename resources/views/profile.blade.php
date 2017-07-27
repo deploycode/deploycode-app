@@ -55,6 +55,12 @@
               <tr>
                 <div class="text-center">
                 </div>
+                <td>Estudiante de Esp. en Ingeniería de Software</td>
+                <td style="text-align:right">Universidad Distrital Francisco Jose de Caldas (2017 - 2018)</td>
+              </tr>
+              <tr>
+                <div class="text-center">
+                </div>
                 <td>Ingeniero Teleinformático</td>
                 <td style="text-align:right">Universidad Tecnológica del Chocó "Diego Luis Córdoba" (2009 - 2016)</td>
               </tr>
@@ -79,7 +85,7 @@
           he desarrollado desde completos CMS hasta plataformas e-comerce, en todos ellos me he desempeñado como Full Stack,
           llevando a cabo todo el proceso de ingeniería de las aplicaciones, análisis, diseño, pasando por la
           codificación hasta el despliegue de la aplicación. <br><br> Somos afortunados, de tantas profesiones, ¿Cuántas pueden llegar
-          a tantos, como nosotros?, Cuántos pueden estar tan cerca de sus usuarios?, ¿Cuántos pueden sentir tanto su satisfacción o enojo?
+          a tantos, como nosotros?, Cuántos pueden estar tan cerca de sus usuarios?, ¿Cuántos pueden sentir tanto, su satisfacción o enojo?
         </p>
       </div>
     </div>

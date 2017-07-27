@@ -91,7 +91,7 @@
     </div>
   </div>
   {{-- Technical Skills --}}
-  <div class="row"><h3 id="title" class="text-center teme-profile">Technical Skills</h3></div>
+  <div class="row"><h3 id="title" class="text-center teme-profile">Habilidades Técnicas</h3></div>
   <div class="row">
     @foreach ($stacks as $stack)
       <div class="panel my-panel">

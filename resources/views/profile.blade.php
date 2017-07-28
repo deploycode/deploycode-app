@@ -138,7 +138,7 @@
         </div>
         @foreach ($projects as $project)
           @if ($project->job_id == $job->id)
-            <div class="panel-footer"><a href="//{{$project->url}}" target="blanc">{{$project->name}}</a></div>
+            <div class="panel-footer"><a href="{{$project->url}}" target="blanc">{{$project->name}}</a></div>
             <div class="panel-body">
               <p>{!! $project->description !!}</p>
             </div>

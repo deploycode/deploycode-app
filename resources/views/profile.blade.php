@@ -84,8 +84,7 @@
           Desarrollador web desde 2013, escribo sobre software en mi blog www.deploycode.co
           he desarrollado desde completos CMS hasta plataformas e-comerce, en todos ellos me he desempeñado como Full Stack,
           llevando a cabo todo el proceso de ingeniería de las aplicaciones, análisis, diseño, pasando por la
-          codificación hasta el despliegue de la aplicación. <br><br> Somos afortunados, de tantas profesiones, ¿Cuántas pueden llegar
-          a tantos, como nosotros?, Cuántos pueden estar tan cerca de sus usuarios?, ¿Cuántos pueden sentir tanto, su satisfacción o enojo?
+          codificación hasta el despliegue de la aplicación.
         </p>
       </div>
     </div>

@@ -1,7 +1,7 @@
 @extends('layouts.main')
 @section('section')
   {{-- Extracto --}}
-    <div class="row"><h3 id="title" class="text-center teme-profile">Datos Personales</h3></div>
+    <div class="row"><h3 id="personal" class="text-center teme-profile">Personal</h3></div>
     <div class="row">
       <div class="panel my-panel">
         <div class="panel-body">
@@ -42,7 +42,7 @@
       </div>
     </div>
 
-    <div class="row"><h3 id="title" class="text-center teme-profile">Estudios</h3></div>
+    <div class="row"><h3 id="education" class="text-center teme-profile">Formación</h3></div>
     <div class="row">
       <div class="panel my-panel">
         <div class="panel-body">
@@ -76,7 +76,7 @@
       </div>
     </div>
 
-  <div class="row"><h3 id="title" class="text-center teme-profile">Extracto</h3></div>
+  <div class="row"><h3 id="extract" class="text-center teme-profile">Resumen</h3></div>
   <div class="row">
     <div class="panel my-panel">
       <div class="panel-body">
@@ -90,7 +90,7 @@
     </div>
   </div>
   {{-- Technical Skills --}}
-  <div class="row"><h3 id="title" class="text-center teme-profile">Habilidades Técnicas</h3></div>
+  <div class="row"><h3 id="skills" class="text-center teme-profile">Habilidades Técnicas</h3></div>
   <div class="row">
     @foreach ($stacks as $stack)
       <div class="panel my-panel">
@@ -113,7 +113,7 @@
     @endforeach
   </div>
   {{-- Experiencia --}}
-  <div class="row"><h3 id="title" class="text-center teme-profile">Experiencia</h3></div>
+  <div class="row"><h3 id="projects" class="text-center teme-profile">Experiencia Profesional</h3></div>
   <div class="row">
     @foreach ($jobs as $job)
       <div class="panel my-panel">
@@ -145,5 +145,14 @@
         @endforeach
       </div>
     @endforeach
+  </div>
+  <div class="row no_web" id="constancias">
+    <img src="{{ asset('imgs/profile/cedula.jpg') }}"           class="img img-responsive">
+    <img src="{{ asset('imgs/profile/diploma.jpg') }}"          class="img img-responsive">
+    <img src="{{ asset('imgs/profile/hablemosdesalud.jpg') }}"  class="img img-responsive">
+    <img src="{{ asset('imgs/profile/culturabakana.jpg') }}"    class="img img-responsive">
+    <img src="{{ asset('imgs/profile/delaminastudios.jpg') }}"  class="img img-responsive">
+    <img src="{{ asset('imgs/profile/referencia01.jpg') }}"     class="img img-responsive">
+    <img src="{{ asset('imgs/profile/referencia02.jpg') }}"     class="img img-responsive">
   </div>
 @endsection

@@ -48,8 +48,11 @@ figure img {
     font-family: "Noto Sans";
     height: 14px;
   }
+  .no_web{
+    display: none;
+  }
 /*//////////////////////////////////////////////////////*/
-#title{
+#title, #personal , #education, #extract, #skills, #projects{
   color: black;
   border: 0px!important;
   font-size: 80px;

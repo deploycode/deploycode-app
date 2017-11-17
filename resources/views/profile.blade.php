@@ -125,10 +125,16 @@
               @if ($job->start->diffInHours($job->finish, false) > 0)
                 {{$job->start->format('F Y')}} -
                 {{$job->finish->format('F Y')}}
-                ({{$job->start->diffForHumans( $job->finish , true)}})
+                <?php
+                   $fecha = $job->start->diff($job->finish);
+                   echo "( $fecha->y años , $fecha->m meses )";
+                ?>
               @else
                 {{$job->start->format('F Y')}} - a la actualidad
-                ({{$job->start->diffForHumans( \Carbon\Carbon::now() , true)}})
+                <?php
+                   $fecha = $job->start->diff(\Carbon\Carbon::now());
+                   echo "( $fecha->y años , $fecha->m meses )";
+                ?>
               @endif
             </div>
           </div>

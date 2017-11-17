@@ -155,7 +155,7 @@
   <div class="row no_web" id="constancias">
     <img src="{{ asset('imgs/profile/cedula.jpg') }}"           class="img img-responsive">
     <img src="{{ asset('imgs/profile/diploma.jpg') }}"          class="img img-responsive">
-    <img src="{{ asset('imgs/profile/hablemosdesalud.jpg') }}"  class="img img-responsive">
+    <!-- <img src="{{ asset('imgs/profile/hablemosdesalud.jpg') }}"  class="img img-responsive"> -->
     <img src="{{ asset('imgs/profile/culturabakana.jpg') }}"    class="img img-responsive">
     <img src="{{ asset('imgs/profile/delaminastudios.jpg') }}"  class="img img-responsive">
     <img src="{{ asset('imgs/profile/referencia01.jpg') }}"     class="img img-responsive">

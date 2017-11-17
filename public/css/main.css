@@ -181,6 +181,9 @@ figure img {
   /*text-align: left;*/
   font-size: 14px;
 }
+.progress-bar{
+  text-align: left;
+}
 .panel-body hr{
   margin: 5px;
 }

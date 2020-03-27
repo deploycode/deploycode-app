@@ -27,7 +27,7 @@
         </div>
       </div>
 
-    {!!Form::open(['route'=>'mail.store', 'method'=>'POST' , 'role'=>'form'])!!}
+{{--    {!!Form::open(['route'=>'mail.store', 'method'=>'POST' , 'role'=>'form'])!!}
       <div class="form-group">
         {!!Form::email('email', null,['placeholder'=>'Email', 'class'=>'form-control'])!!}
       </div>
@@ -37,6 +37,6 @@
       <div class="form-group">
         {!!Form::button('<span class="glyphicon glyphicon-send"></span>' ,['type'=>'submit','class'=>'btn btn-success']);!!}
       </div>
-    {!!Form::close()!!}
+    {!!Form::close()!!}--}}
   </article>
 @endsection

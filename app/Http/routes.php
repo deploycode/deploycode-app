@@ -1,6 +1,6 @@
 <?php
 
-Route::get('/' , 'FrontController@blog');
+Route::get('/' , 'FrontController@profile');
 Route::get('home' , 'FrontController@index');
 Route::get('profile' , 'FrontController@profile');
 Route::get('blog' , 'FrontController@blog');

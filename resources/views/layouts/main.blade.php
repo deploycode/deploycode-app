@@ -51,7 +51,7 @@
           <ul class="nav" id="side-menu">
             @if (isset($post))
               <li class="hidden-xs" id="personal_card">
-                <img src="{!!asset('imgs/users/'.$post->user->pic.'')!!}" class="img img-circle img-responsive" alt="">
+                {{-- <img src="{!!asset('imgs/users/'.$post->user->pic.'')!!}" class="img img-circle img-responsive" alt="">--}}
                 <div>
                   <h2>{{$post->user->name}}</h2>
                   <H3>{{$post->user->twitter}}</H3>
@@ -60,14 +60,14 @@
               </li>
             @else
               <li class="hidden-xs" id="personal_card">
-                <img src="{!!asset('imgs/logo-min-deploycode.png')!!}" class="img img-circle img-responsive" alt="">
-                <div>
+                {{-- <img src="{!!asset('imgs/logo-min-deploycode.png')!!}" class="img img-circle img-responsive" alt="">--}}
+                {{--<div>
                   <h2>DeployCode</h2>
-                </div>
+                </div>--}}
               </li>
             @endif
             {{-- <li><a href="{!!URL::to('home')!!}"><i class="glyphicon glyphicon-home teme-home"></i> Inicio</a></li> --}}
-            <li><a href="{!!URL::to('blog')!!}"><i class="glyphicon glyphicon-book  teme-blog"></i> Blog</a></li>
+            {{--<li><a href="{!!URL::to('blog')!!}"><i class="glyphicon glyphicon-book  teme-blog"></i> Blog</a></li>--}}
             <li><a href="{!!URL::to('profile')!!}"><i class="glyphicon glyphicon-user  teme-profile"></i> Sobre mi</a></li>
             <li><a href="{!!URL::to('contact')!!}"><i class="glyphicon glyphicon-envelope teme-contact"></i> Contacto</a></li>
             @if (isset(Auth::user()->name))

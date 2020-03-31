@@ -55,7 +55,7 @@
               <tr>
                 <div class="text-center">
                 </div>
-                <td>Estudiante de Esp. en Ingeniería de Software</td>
+                <td>Especialista en Ingeniería de Software</td>
                 <td style="text-align:right">Universidad Distrital Francisco Jose de Caldas (2017 - 2018)</td>
               </tr>
               <tr>
@@ -64,19 +64,14 @@
                 <td>Ingeniero Teleinformático</td>
                 <td style="text-align:right">Universidad Tecnológica del Chocó "Diego Luis Córdoba" (2009 - 2016)</td>
               </tr>
-              <tr>
-                <div class="text-center">
-                </div>
-                <td>Tecnlogía en Animación 3D</td>
-                <td style="text-align:right">SENA Regional Chocó (Pendiente)</td>
-              </tr>
             </tbody>
           </table>
         </div>
       </div>
     </div>
 
-  <div class="row"><h3 id="extract" class="text-center teme-profile">Resumen</h3></div>
+  {{-- Resumen --}}
+  {{-- <div class="row"><h3 id="extract" class="text-center teme-profile">Resumen</h3></div>
   <div class="row">
     <div class="panel my-panel">
       <div class="panel-body">
@@ -88,7 +83,8 @@
         </p>
       </div>
     </div>
-  </div>
+  </div>--}}
+
   {{-- Technical Skills --}}
   <div class="row"><h3 id="skills" class="text-center teme-profile">Habilidades Técnicas</h3></div>
   <div class="row">

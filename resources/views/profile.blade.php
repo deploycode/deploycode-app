@@ -135,7 +135,7 @@
             </div>
           </div>
           <hr>
-          <p>{{$job->description}}</p>
+          <pre>{{$job->description}}</pre>
         </div>
         @foreach ($projects as $project)
           @if ($project->job_id == $job->id)

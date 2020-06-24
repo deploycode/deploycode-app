@@ -149,12 +149,15 @@
     @endforeach
   </div>
   <div class="row no_web" id="constancias">
-    <img src="{{ asset('imgs/profile/cedula.jpg') }}"           class="img img-responsive">
-    <img src="{{ asset('imgs/profile/diploma.jpg') }}"          class="img img-responsive">
-    <!-- <img src="{{ asset('imgs/profile/hablemosdesalud.jpg') }}"  class="img img-responsive"> -->
-    <img src="{{ asset('imgs/profile/culturabakana.jpg') }}"    class="img img-responsive">
-    <img src="{{ asset('imgs/profile/delaminastudios.jpg') }}"  class="img img-responsive">
-    <img src="{{ asset('imgs/profile/referencia01.jpg') }}"     class="img img-responsive">
-    <img src="{{ asset('imgs/profile/referencia02.jpg') }}"     class="img img-responsive">
+    <img class="img img-responsive" src="{{ asset('imgs/profile/cedula.jpg') }}">
+    <img class="img img-responsive" src="{{ asset('imgs/profile/diploma.jpg') }}">
+    <img class="img img-responsive" src="{{ asset('imgs/profile/diploma_especializacion.jpg') }}">
+    <img class="img img-responsive" src="{{ asset('imgs/profile/indra.jpg') }}">
+    <img class="img img-responsive" src="{{ asset('imgs/profile/optimeconsulting.jpg') }}">
+    <img class="img img-responsive" src="{{ asset('imgs/profile/hablemosdesalud.jpg') }}">
+    <img class="img img-responsive" src="{{ asset('imgs/profile/culturabakana.jpg') }}">
+    <img class="img img-responsive" src="{{ asset('imgs/profile/delaminastudios.jpg') }}">
+    {{--    <img src="{{ asset('imgs/profile/referencia01.jpg') }}"     class="img img-responsive">--}}
+    {{--    <img src="{{ asset('imgs/profile/referencia02.jpg') }}"     class="img img-responsive">--}}
   </div>
 @endsection

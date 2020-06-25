@@ -154,7 +154,7 @@
     <img class="img img-responsive" src="{{ asset('imgs/profile/diploma_especializacion.jpg') }}">
     <img class="img img-responsive" src="{{ asset('imgs/profile/indra.jpg') }}">
     <img class="img img-responsive" src="{{ asset('imgs/profile/optimeconsulting.jpg') }}">
-    <img class="img img-responsive" src="{{ asset('imgs/profile/hablemosdesalud.jpg') }}">
+    <img class="img img-responsive" src="{{ asset('imgs/profile/altavision.jpg') }}">
     <img class="img img-responsive" src="{{ asset('imgs/profile/culturabakana.jpg') }}">
     <img class="img img-responsive" src="{{ asset('imgs/profile/delaminastudios.jpg') }}">
     {{--    <img src="{{ asset('imgs/profile/referencia01.jpg') }}"     class="img img-responsive">--}}
